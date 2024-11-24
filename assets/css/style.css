@@ -505,7 +505,7 @@ section .container {
 .interests .icon-box {
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 10px;
   background: var(--custom-dark-blue);
   transition: ease-in-out 0.3s;
 }
